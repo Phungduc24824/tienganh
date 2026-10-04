@@ -1,4 +1,4 @@
-New Cat	
+New Cat:	
 £ 4200
 August
 675509872
@@ -9,7 +9,7 @@ sophieturner
 24 Ingrid - B
 25 Charles - A.skateboarding
 
-Singing competition
+Singing competition:
 evenings	15
 video
 singpros
@@ -21,7 +21,7 @@ cafe
 24 Sunny Summer - H
 25 Pop star - A. interesting story
 
-Class Trip
+Class Trip:
 Music
 8:30 a.m
 library
@@ -33,7 +33,7 @@ snacks
 24. Ivanna - B
 25. Diego - G. tickets
 
-London City Tours
+London City Tours:
 8.50
 cameras
 £9.95
@@ -45,7 +45,7 @@ Piccadilly
 24 Friday - F
 25 Weekend - D. snow 
 
-Fire practice			
+Fire practice:			
 Run
 exit
 building
@@ -57,7 +57,7 @@ gym
 24 Aisha - G
 25 Jin - E . stomach ache
 
-Summer Course 
+Summer Course: 
 August
 25
 assistant
@@ -69,7 +69,7 @@ jessyjones
 24 park - C
 25 home - H .boring
 
-Village Cinema
+Village Cinema:
 Playground
 Williams
 12.00
@@ -81,7 +81,7 @@ Williams
 24 Lucas - F
 25 Aunt - D .ring
 
-Important Meeting
+Important Meeting:
 Notes
 45
 officedes
