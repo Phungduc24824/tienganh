@@ -51,13 +51,20 @@ video,
 singpros,
 cafe,
 £180,
-21 Happy Place - C
-22 Kids Rock - E
-23 Dangerous People - B
-24 Sunny Summer - H
-25 Pop star - A. interesting story
+
+21 Happy Place - C, 22 Kids Rock - E, 23 Dangerous People - B, 24 Sunny Summer - H, 25 Pop star - A. interesting story
+
 7:Fast Drive  8:Dinosaurs  9:Fast Drive  10: Star City  11:Star City  12:Dinosaurs  13: Star City
-25.to	26.in	27.of	28.they	29.like	30.go
+
+The Three Peaks Challenge:
+
+14.to help the hospital in his town, 15.It wasn't as much of a problem as he had thought, 16.He was worried about the weather but It was OK in the end, 17.you should wear a nice looking hat, 18. the countryside
+
+Sports:
+
+19.kinds, 20.equipment, 21.few, 22.stadium, 23.each, 24.or
+
+25.to,	26.in,	27.of,	28.they,	29.like,	30.go
 
 Test 04.
 
