@@ -1,6 +1,7 @@
 Test 01.
 
 Class Trip:
+
 Music,
 8:30,
 library,
@@ -23,7 +24,8 @@ The Olympic Games:
 
 Test 02.
 
-New Cat:	
+New Cat:
+
 £ 4200,
 August,
 675509872,
@@ -46,6 +48,7 @@ Camping:
 Test 03.
 
 Singing competition:
+
 evenings	15,
 video,
 singpros,
@@ -69,6 +72,7 @@ Sports:
 Test 04.
 
 London City Tours:
+
 8.50,
 cameras,
 £9.95,
@@ -85,6 +89,7 @@ Piccadilly,
 Test 05.
 
 Fire practice:			
+
 Run,
 exit,
 building,
@@ -101,6 +106,7 @@ gym,
 Test 06.
 
 Summer Course: 
+
 August,
 25,
 assistant,
@@ -117,6 +123,7 @@ jessyjones,
 Test07.
 
 Village Cinema:
+
 Playground,
 Williams,
 12.00,
@@ -133,6 +140,7 @@ Williams,
 Test 08.
 
 Important Meeting:
+
 Notes,
 45,
 officedes,
