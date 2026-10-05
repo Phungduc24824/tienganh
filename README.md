@@ -9,17 +9,17 @@ snacks,
 
 21. Marco - H, 22. Mary - A, 23. Robert - E, 24. Ivanna - B, 25. Diego - G. tickets
 
-7:Louis  8:Jackson  9:Louis  10:Damian  11:Jackson  12:Louis  13:Damian
+7:Louis,  8:Jackson,  9:Louis,  10:Damian,  11:Jackson,  12:Louis,  13:Damian
 
 My life as an actor:
 
-14.have a job that would make her rich 15.with a friend 16.to believe in herself because she is good 17.made her feel bad about having acting lessons 18.They are pleased that she did what she wanted to do
+14.have a job that would make her rich, 15.with a friend, 16.to believe in herself because she is good, 17.made her feel bad about having acting lessons, 18.They are pleased that she did what she wanted to do
 
 The Olympic Games:
 
-19.take 20.look 21.ago 22.changes 23. snowboarding 24.most
+19.take, 20.look, 21.ago, 22.change,s 23. snowboarding, 24.most
 
-25.going	26.has	27.lots	28.a	29.as	30.here
+25.going,	26.has,	27.lots,	28.a,	29.as,	30.here
 
 Test 02.
 
@@ -28,13 +28,11 @@ New Cat:
 August,
 675509872,
 sophieturner,
-21 Daniel - E
-22 Barbara - G
-23 Hasan - C
-24 Ingrid - B
-25 Charles - A.skateboarding
-7:Magareth  8:Spiros  9:Thomas  10:Magareth  11:Spiros  12:Thomas 13:Magareth
-25.few	26.to	27.me	28.with	29.so	30.hope
+21 Daniel - E, 22 Barbara - G, 23 Hasan - C, 24 Ingrid - B, 25 Charles - A.skateboarding
+
+7:Magareth,  8:Spiros,  9:Thomas,  10:Magareth,  11:Spiros,  12:Thomas, 13:Magareth
+
+25.few,	26.to,	27.me,	28.with,	29.so,	30.hope
 
 Test 03.
 
