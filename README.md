@@ -6,7 +6,7 @@ Music,
 8:30,
 library,
 snacks,
-6.50,
+6.50
 
 21. Marco - H, 22. Mary - A, 23. Robert - E, 24. Ivanna - B, 25. Diego - G. tickets
 
@@ -62,7 +62,7 @@ Singing competition:
 video,
 singpros,
 cafe,
-£180,
+£180
 
 21 Happy Place - C, 22 Kids Rock - E, 23 Dangerous People - B, 24 Sunny Summer - H, 25 Pop star - A. interesting story
 
