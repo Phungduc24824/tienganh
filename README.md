@@ -136,7 +136,7 @@ From: Sandra
 
 To: Vicky
 
-25.How	26.an	27.that	28.about	29.getting	30.soon
+25.How,	26.an,	27.that,	28.about,	29.getting,	30.soon
 
 Test 06.
 
@@ -153,7 +153,15 @@ jessyjones,
 
 7:Phil  8:Edward  9:Phil  10:Jack  11:Edward  12:Phil  13:Phil  
 
-25.at	26.be	27.By	28.back	29.why	30.give
+A successful singer:
+
+14.in church, 15.she had always wanted to sing on her own, 16. She wouldn't be known as a solo singer, 17.She liked the other girls in the group, 18.travelling
+
+Alexander McQueen:
+
+19.where, 20.sold, 21.customers, 22.articles, 23.pleasant, 24.in
+
+25.at,	26.be,	27.By,	28.back,	29.why,	30.give
 
 Test07.
 
@@ -163,14 +171,25 @@ Playground,
 Williams,
 12.00,
 6.99,
-5644300,
-21 Dad - H
-22 Grandpa - C
-23 Sister - F
-24 Lucas - F
-25 Aunt - D .ring
+5644300
+
+21 Dad - H, 22 Grandpa - C, 23 Sister - F, 24 Lucas - F, 25 Aunt - D .ring
+
 7:Jane  8:Gemma  9:Sarah  10:Jane  11:Sarah  12:Gemma  13:Sarah
-25.me	26.the	27.your	28.what	29.means	30.as
+
+Archie Campbell talks about computer games:
+
+14.his parents hadn't bought him a computer, 15.that he was very clever, 16.He understood what job he wanted to do in the future, 17.his computer teacher, 18.study computers at university
+
+The National Railway Museum:
+
+19.part, 20.tells, 21.includes, 22.space, 23.through, 24.daily
+
+From: Tom
+
+To: Helen
+
+25.me,	26.the,	27.your,	28.what,	29.means,	30.as
 
 Test 08.
 
@@ -181,10 +200,20 @@ Notes,
 officedes,
 Anna,
 4th,
-21 Tuesday - A
-22 Wednesday - E
-23 Thursday - B
-24 Friday - H
-25 Saturday - G .park
+21 Tuesday - A, 22 Wednesday - E, 23 Thursday - B, 24 Friday - H, 25 Saturday - G .park
+
 7:Ken 8:Peter 9:Ken 10:Nick 11:Peter 12:Nick 13:Nick
+
+A family who loves animals:
+
+14.shop assistant, 15.a rabbit, 16.they give some animals to other people, 17.when people are unkind to animals, 18.to the farm
+
+Dogs:
+
+19.most, 20.after, 21.part, 22.even, 23.chat, 24.who
+
+From: From: Artemis
+
+To: Dylan
+
 25.ever	26.my	27.say	28.about	29.any	30.from
