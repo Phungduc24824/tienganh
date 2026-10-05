@@ -1,11 +1,11 @@
 Test 01.
 
 Class Trip:
-Music
-8:30 a.m
-library
-snacks
-6.50
+Music,
+8:30,
+library,
+snacks,
+6.50,
 21. Marco - H
 22. Mary - A
 23. Robert - E
@@ -17,10 +17,10 @@ snacks
 Test 02.
 
 New Cat:	
-£ 4200
-August
-675509872
-sophieturner
+£ 4200,
+August,
+675509872,
+sophieturner,
 21 Daniel - E
 22 Barbara - G
 23 Hasan - C
@@ -32,11 +32,11 @@ sophieturner
 Test 03.
 
 Singing competition:
-evenings	15
-video
-singpros
-cafe
-£180
+evenings	15,
+video,
+singpros,
+cafe,
+£180,
 21 Happy Place - C
 22 Kids Rock - E
 23 Dangerous People - B
@@ -48,11 +48,11 @@ cafe
 Test 04.
 
 London City Tours:
-8.50
-cameras
-£9.95
-shopspots
-Piccadilly
+8.50,
+cameras,
+£9.95,
+shopspots,
+Piccadilly,
 21 Tuesday - B
 22 Wednesday - C
 23 Thursday - G
@@ -64,11 +64,11 @@ Piccadilly
 Test 05.
 
 Fire practice:			
-Run
-exit
-building
-gym
-1.15	
+Run,
+exit,
+building,
+gym,
+1.15,
 21 Sebastian - F
 22 Olivia - C
 23 Matthew - B 
@@ -80,11 +80,11 @@ gym
 Test 06.
 
 Summer Course: 
-August
-25
-assistant
-English
-jessyjones	
+August,
+25,
+assistant,
+English,
+jessyjones,
 21 swimming pool - D
 22 café - E
 23 cinema - G
@@ -96,11 +96,11 @@ jessyjones
 Test07.
 
 Village Cinema:
-Playground
-Williams
-12.00
-6.99
-5644300	
+Playground,
+Williams,
+12.00,
+6.99,
+5644300,
 21 Dad - H
 22 Grandpa - C
 23 Sister - F
@@ -112,11 +112,11 @@ Williams
 Test 08.
 
 Important Meeting:
-Notes
-45
-officedes
-Anna
-4th
+Notes,
+45,
+officedes,
+Anna,
+4th,
 21 Tuesday - A
 22 Wednesday - E
 23 Thursday - B
