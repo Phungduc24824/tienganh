@@ -146,10 +146,9 @@ August,
 25,
 assistant,
 English,
-jessyjones,
-21 swimming pool - D,
+jessyjones
 
-22 café - E, 23 cinema - G, 24 park - C, 25 home - H .boring
+21 swimming pool - D, 22 café - E, 23 cinema - G, 24 park - C, 25 home - H .boring
 
 7:Phil  8:Edward  9:Phil  10:Jack  11:Edward  12:Phil  13:Phil  
 
@@ -199,7 +198,8 @@ Notes,
 45,
 officedes,
 Anna,
-4th,
+4th
+
 21 Tuesday - A, 22 Wednesday - E, 23 Thursday - B, 24 Friday - H, 25 Saturday - G .park
 
 7:Ken 8:Peter 9:Ken 10:Nick 11:Peter 12:Nick 13:Nick
@@ -212,7 +212,7 @@ Dogs:
 
 19.most, 20.after, 21.part, 22.even, 23.chat, 24.who
 
-From: From: Artemis
+From: Artemis
 
 To: Dylan
 
