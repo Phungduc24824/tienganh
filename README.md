@@ -14,10 +14,13 @@ snacks,
 7:Louis  8:Jackson  9:Louis  10:Damian  11:Jackson  12:Louis  13:Damian
 
 My life as an actor:
+
 14.have a job that would make her rich 15.with a friend 16.to believe in herself because she is good 17.made her feel bad about having acting lessons 18.They are pleased that she did what she wanted to do
 
 The Olympic Games:
+
 19.take 20.look 21.ago 22.changes 23. snowboarding 24.most
+
 25.going	26.has	27.lots	28.a	29.as	30.here
 
 Test 02.
