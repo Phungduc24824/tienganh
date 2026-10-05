@@ -20,6 +20,10 @@ The Olympic Games:
 
 19.take, 20.look, 21.ago, 22.change,s 23. snowboarding, 24.most
 
+From: John
+
+To: Sally
+
 25.going,	26.has,	27.lots,	28.a,	29.as,	30.here
 
 Test 02.
@@ -30,6 +34,7 @@ New Cat:
 August,
 675509872,
 sophieturner,
+evenings
 
 21 Daniel - E, 22 Barbara - G, 23 Hasan - C, 24 Ingrid - B, 25 Charles - A.skateboarding
 
@@ -43,13 +48,17 @@ Camping:
 
 19.way, 20.rest, 21.carry, 22.map, 23.sure, 24. leave
 
+From: Mark
+
+To: Robert
+
 25.few,	26.to,	27.me,	28.with,	29.so,	30.hope
 
 Test 03.
 
 Singing competition:
 
-evenings	15,
+15,
 video,
 singpros,
 cafe,
@@ -67,6 +76,10 @@ Sports:
 
 19.kinds, 20.equipment, 21.few, 22.stadium, 23.each, 24.or
 
+From: Jenny 
+
+To: Kate 
+
 25.to,	26.in,	27.of,	28.they,	29.like,	30.go
 
 Test 04.
@@ -77,14 +90,25 @@ London City Tours:
 cameras,
 £9.95,
 shopspots,
-Piccadilly,
-21 Tuesday - B
-22 Wednesday - C
-23 Thursday - G
-24 Friday - F
-25 Weekend - D. snow 
-7: Sua  8:Karen  9:Peter  10:Karen  11:Sua  12:Peter  13:Karen
-25.of	26.go	27.too	28.bought	29.take	30.are
+Piccadilly
+
+21 Tuesday - B, 22 Wednesday - C, 23 Thursday - G, 24 Friday - F, 25 Weekend - D. snow 
+
+7: Sua,  8:Karen,  9:Peter,  10:Karen,  11:Sua,  12:Peter,  13:Karen
+
+Giving food to poor people:
+
+14.theTV, 15.to a cafe, 16.how she could easily make someone's life better, 17.The workers get paid with food, 18.get other people to do what she is doing
+
+Dr Cicely Williams:
+
+19.study, 20.interested, 21.listen, 22.became, 23.sick, 24.babies                        
+
+From: Alexis
+
+To: Rachel 
+
+25.of,	26.go,	27.too,	28.bought,	29.take,	30.are
 
 Test 05.
 
@@ -95,12 +119,23 @@ exit,
 building,
 gym,
 1.15,
-21 Sebastian - F
-22 Olivia - C
-23 Matthew - B 
-24 Aisha - G
-25 Jin - E . stomach ache
+
+21 Sebastian - F, 22 Olivia - C, 23 Matthew - B, 24 Aisha - G, 25 Jin - E . stomach ache
+
 7:Sharon  8:Melissa  9:Sharon  10:Latifa  11:Melissa  12:Sharon  13:Latifa
+
+Celismar Guzman - a young swimming champion:
+
+14.She is very strong for her age, 15.the most important thing in her life, 16.is doing well because she works hard, 17.She swam faster than ever before, 18.she is doing what her parents do
+
+The Eden Project:
+
+19.popular, 20.over, 21.look, 22.bridge, 23.which, 24.visit 
+
+From: Sandra
+
+To: Vicky
+
 25.How	26.an	27.that	28.about	29.getting	30.soon
 
 Test 06.
@@ -112,12 +147,12 @@ August,
 assistant,
 English,
 jessyjones,
-21 swimming pool - D
-22 café - E
-23 cinema - G
-24 park - C
-25 home - H .boring
+21 swimming pool - D,
+
+22 café - E, 23 cinema - G, 24 park - C, 25 home - H .boring
+
 7:Phil  8:Edward  9:Phil  10:Jack  11:Edward  12:Phil  13:Phil  
+
 25.at	26.be	27.By	28.back	29.why	30.give
 
 Test07.
