@@ -33,6 +33,14 @@ sophieturner,
 
 7:Magareth,  8:Spiros,  9:Thomas,  10:Magareth,  11:Spiros,  12:Thomas, 13:Magareth
 
+Sophia Capaldi - Young Businesswoman of the Year:
+
+14. Her family didn’t have much money, 15.She did it just for fun, 16.still enjoy life when she’s a bit older, 17.She felt very special, 18. look for staff
+
+Camping:
+
+19.way, 20.rest, 21.carry, 22.map, 23.sure, 24. leave
+
 25.few,	26.to,	27.me,	28.with,	29.so,	30.hope
 
 Test 03.
