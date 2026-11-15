@@ -10,9 +10,11 @@ Music, 8:30, library, snacks, 6.50
 
 16.You will hear a woman talking to her friend about her new car. What did she sell her last car? - A. It was old 
 
-17. learn a language, 18. a birthday party, 19. She is going to be late, 20. clothes 
+17.learn a language, 18. a birthday party, 19. She is going to be late, 20. clothes 
 
 21. Marco - H, 22. Mary - A, 23. Robert - E, 24. Ivanna - B, 25. Diego - G. tickets
+
+1.City Libary - C. Adults can’t take part in the competition, 2.Hi james - A.Emma knows that James can’t go out before 8 p.m, 3.Buses will stop running at the weekend, 4. Jim tells Anna that he will go to school on foot, 5. You can buy chocolate at half its usual price, 6. to tell Susan what happened to her
 
 7:Louis,  8:Jackson,  9:Louis,  10:Damian,  11:Jackson,  12:Louis,  13:Damian
 
