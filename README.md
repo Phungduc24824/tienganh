@@ -5,11 +5,12 @@ Class Trip:
 Music, 8:30, library, snacks, 6.50
 
 11.Who has already been asked to go to the cinema with Lee? - C. his friends from basketball 
+
 12.He won them in a competition, 13.sweets, 14.a really funny film, 15. an hour before the film  
-16. You will hear a woman talking to her friend about her new car. What did she sell her last car? - A. It was old 
 
-17. learn a language, 18.  a birthday party,  19.  She is going to be late, 20.   clothes
+16. You will hear a woman talking to her friend about her new car. What did she sell her last car? - A. It was old
 
+17. learn a language, 18. a birthday party, 19. She is going to be late, 20. clothes 
 
 21. Marco - H, 22. Mary - A, 23. Robert - E, 24. Ivanna - B, 25. Diego - G. tickets
 
