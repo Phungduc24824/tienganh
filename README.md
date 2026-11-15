@@ -2,11 +2,9 @@ Test 01.
 
 Class Trip:
 
-Music,
-8:30,
-library,
-snacks,
-6.50
+Music, 8:30, library, snacks, 6.50
+
+11.Who has already been asked to go to the cinema with Lee? - C. his friends from basketball 
 
 21. Marco - H, 22. Mary - A, 23. Robert - E, 24. Ivanna - B, 25. Diego - G. tickets
 
