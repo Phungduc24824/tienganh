@@ -10,7 +10,7 @@ Music, 8:30, library, snacks, 6.50
 
 16.You will hear a woman talking to her friend about her new car. What did she sell her last car? - A. It was old 
 
-17.learn a language, 18. a birthday party, 19. She is going to be late, 20. clothes 
+17. learn a language, 18. a birthday party, 19. She is going to be late, 20. clothes 
 
 21. Marco - H, 22. Mary - A, 23. Robert - E, 24. Ivanna - B, 25. Diego - G. tickets
 
