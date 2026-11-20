@@ -42,7 +42,19 @@ August,
 sophieturner,
 evenings
 
+11.What did Mona and Ken do on their first day? - go swimming
+
+12.worried, 13.boiled eggs, 14.more clothes, 15.singing by the campfire
+
+16.You will hear two friends talking about the weekend. What did the man do on Saturday? - He spent time with his family
+
+17.He was on a business trip, 18.She practised a lot, 19.her new project, 20.It was quite noisy
+
 21 Daniel - E, 22 Barbara - G, 23 Hasan - C, 24 Ingrid - B, 25 Charles - A.skateboarding
+
+1.NEW SMARTPHONE - People studying have to pay less to buy the new smartphone
+
+2.To:jeremy - to ask Jeremy to join him when he visits a university, 3.The place guests will have lunch is not far away, 4.she has never been on a plane before, 5.The shop will open an hour earlier in July, 6.Some students can pay less for the trip
 
 7:Magareth,  8:Spiros,  9:Thomas,  10:Magareth,  11:Spiros,  12:Thomas, 13:Magareth
 
@@ -70,7 +82,15 @@ singpros,
 cafe,
 £180
 
+11.Who did Mei go to the exhibition with? - her neighbors, 12.cloudy, 13.the photographs, 14.she thought it might be boring, 15.to a festival
+
+16.You will hear a woman talking to her friend about her holiday. What didn’t she like? - where the hotel was, 17.She’s going to have a baby, 18.The shop assistant wasn’t polite, 19.It doesn’t fit the woman, 20.His wife’s bag is too big
+
 21 Happy Place - C, 22 Kids Rock - E, 23 Dangerous People - B, 24 Sunny Summer - H, 25 Pop star - A. interesting story
+
+1.CITY MUSEUM - Adults pay a total of E12 to see the exhibition
+
+2.Hi Simon, - Bob and Simon will go to the factory together, 3.There is a music event next week, 4.Helen will stay at home tonight, 5.The green signs show the safe area, 6.Friends will arrive after ordering the hot food
 
 7:Fast Drive  8:Dinosaurs  9:Fast Drive  10: Star City  11:Star City  12:Dinosaurs  13: Star City
 
@@ -98,7 +118,17 @@ cameras,
 shopspots,
 Piccadilly
 
+11.When is the event? - 3rd June, 12.her brown suit, 13.free aeroplane tickets, 14.her husband, 15.to chat with employees
+
+16.You will hear a woman talking to a colleague. Who is she waiting for? -  a family member
+
+17. to invite her to his colleague’s house, 18.They’ll look at a magazine, 19.It’s less crowded, 20.be with a colleague
+
 21 Tuesday - B, 22 Wednesday - C, 23 Thursday - G, 24 Friday - F, 25 Weekend - D. snow 
+
+1.To:Ms Smith - John is too sick to go to work
+
+2.NEW TABLET COMPUTERS - There will be more tablets at the end of the week, 3.There is water available in the festival, 4.There aren't any animals in the park, 5.to tell Billy that she's happy about her uncle's visit, 6.The house is close to the train station
 
 7: Sua,  8:Karen,  9:Peter,  10:Karen,  11:Sua,  12:Peter,  13:Karen
 
@@ -126,7 +156,15 @@ building,
 gym,
 1.15,
 
+11.How does Linda usually get to the office? - on foot, 12.his colleagues, 13.£22,500, 14.going to meetings, 15.look for another job
+
+16.You will hear a man talking about a film. Which part didn’t he enjoy? - the middle, 17. It was unusual, 18.to watch something, 19.Practice is going to be longer today, 20.a member of his family
+
 21 Sebastian - F, 22 Olivia - C, 23 Matthew - B, 24 Aisha - G, 25 Jin - E . stomach ache
+
+1.Buy NOW! - The special offer is only for a few days, 
+
+2.Starway Coffee Shop - The coffee shop opens at the same time every day, 3.Students can buy two tickets for the price of one, 4.Anna has invited both Sophia and her brother to her party, 5.Mr Black can give you details about the job, 6.to ask Ms Brown to help her find a summer job
 
 7:Sharon  8:Melissa  9:Sharon  10:Latifa  11:Melissa  12:Sharon  13:Latifa
 
@@ -154,7 +192,15 @@ assistant,
 English,
 jessyjones
 
+11.Gustav thinks jeans are -  uncomfortable, 12.brown, 13.don’t match his shirts, 14.£55, 15.on Monday
+
+16.You will hear two colleagues talking together. How did the woman come to work today? -  by train, 17.some jewellery, 18.through practising on her own, 19.horse riding, 20.a place for drinks
+
 21 swimming pool - D, 22 café - E, 23 cinema - G, 24 park - C, 25 home - H .boring
+
+1.Summer job - You have to work 6 days a week in this job, 
+
+2.Hi Freddie, - to invite Freddie to his house, 3.Students aged over 16 years old can't take part in the summer camp, 4.Everyone has to pay £2.00 to take part in the competition, 5.ask Tommy to help her with her sister's birthday present, 6.People can ask for help at this phone number any time
 
 7:Phil  8:Edward  9:Phil  10:Jack  11:Edward  12:Phil  13:Phil  
 
@@ -178,7 +224,15 @@ Williams,
 6.99,
 5644300
 
+11.How did Monica find out about the website? - from TV, 12.different, 13.his English teacher, 14. 45 minutes, 15.the articles
+
+16.You will hear two friends talking. Where are they? - on a train, 17.her son to become a doctor, 18.The man is a new driver, 19.He may have to stop working, 20.He had trouble getting home
+
 21 Dad - H, 22 Grandpa - C, 23 Sister - F, 24 Lucas - F, 25 Aunt - D .ring
+
+1.Please do not - You must clean the beach before you leave
+
+2.POP MÚIC CONCERT - B.Students don’t need to pay anything to come to the concert, 3.to ask Tim about his new school, 4.You can’t have a lesson with John Preston at the weekend, 5.go to the pool party with Pedro, 6.You don’t need to pay extra money to eat at the party
 
 7:Jane  8:Gemma  9:Sarah  10:Jane  11:Sarah  12:Gemma  13:Sarah
 
@@ -206,7 +260,15 @@ officedes,
 Anna,
 4th
 
+11.Who isn’t going on the trip with Sammy? - her boyfriend, 12.train, 13.download a travel guide, 14.sightseeing, 15.the weather
+
+16.You will hear a woman talking to her friend about her new boss. What does the woman like about him? - He’s friendly, 17.angry, 18.the teacher,19.its age, 20.He was late for the meeting
+
 21 Tuesday - A, 22 Wednesday - E, 23 Thursday - B, 24 Friday - H, 25 Saturday - G .park
+
+1.New programme: - The programme is not on at the weekend
+
+2.john, - Peter wants to eat different kinds of food, 3.The last tour starts at 3 in the afternoon, 4.Staff must book day off at least a week earlier, 5.to ask Kim to let him practice on her piano, 6.Televisions have the biggest discount
 
 7:Ken 8:Peter 9:Ken 10:Nick 11:Peter 12:Nick 13:Nick
 
