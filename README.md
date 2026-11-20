@@ -285,3 +285,14 @@ From: Artemis
 To: Dylan
 
 25.ever	26.my	27.say	28.about	29.any	30.from
+
+25 chữ:
+
+Dear….
+
+How are you doing? I am very happy to write this email to you………..I look forward to hearing from you soon.
+
+Best regards,
+
+   ………
+
